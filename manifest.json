@@ -1,0 +1,25 @@
+{
+  "name": "LibreTV 影视聚合",
+  "short_name": "LibreTV",
+  "description": "免服务器的影视聚合网页：点播搜索 + 直播 IPTV，数据仅存本机",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1013",
+  "theme_color": "#0e1013",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
